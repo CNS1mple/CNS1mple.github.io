@@ -1,0 +1,26 @@
+# Site settings
+name: 瓜的技术BLOG
+email: yang@clewyo.cc
+author: Yang Guang
+url: https://github.com/CNS1mple/CNS1mple.github.io
+resume_site: https://github.com/CNS1mple/CNS1mple.github.io
+github: https://github.com/CNS1mple/
+baseurl: ""
+description: 算法;PAT;蓝桥杯;
+meta_description: 杨光;个人技术博客;算法;蓝桥杯;PAT;GitHub
+motto: Be a better man.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: CNS1mple
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
