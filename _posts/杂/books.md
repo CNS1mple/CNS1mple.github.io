@@ -1,7 +1,13 @@
 ---
 layout: post
-title: 我的书单
-permalink: /books/
+#标题配置
+title: "书单"
+#时间配置
+date:   2018-04-08 23:21:01 +0800
+#大类配置
+categories: 杂
+#小类配置
+tag: 杂
 ---
 
 * content
@@ -11,9 +17,7 @@ permalink: /books/
 
 =================================================   
 
-《代码整洁之道》 
-
-《程序员健康指南》   
+《代码整洁之道》  
 
 《Thinking in Java》  
 
