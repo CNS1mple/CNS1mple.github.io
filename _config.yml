@@ -6,9 +6,9 @@ url: https://github.com/CNS1mple/CNS1mple.github.io
 resume_site: https://github.com/CNS1mple/CNS1mple.github.io
 github: https://github.com/CNS1mple/
 baseurl: ""
-description: 数据结构、算法、C++、PAT、蓝桥杯、web、jekyll...
+description: 千里之行，始于足下。
 meta_description: YG的技术BLOG 杨光 算法 蓝桥杯 PAT
-motto: Stay determined. 
+motto: Stay determined.
 banner: 千里之行，始于足下。
 
 #permalink: /:categories/:year/:month/:day/:title/
