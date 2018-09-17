@@ -12,8 +12,11 @@ motto: Stay determined.
 banner: 千里之行，始于足下。
 
 #permalink: /:categories/:year/:month/:day/:title/
+plugins: [jekyll-paginate]
+paginate: 5
+#
 permalink: /:year/:month/:day/:title/
-paginate: 10
+
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
