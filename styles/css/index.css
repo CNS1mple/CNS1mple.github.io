@@ -552,7 +552,7 @@ pre {
   display: block;
   padding: 9.5px;
   margin: 0 0 10px;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1.42857143;
   word-break: break-all;
   word-wrap: break-word;
@@ -1498,7 +1498,7 @@ input[type="number"]::-webkit-inner-spin-button {
 output {
   display: block;
   padding-top: 7px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.42857143;
   color: #555555;
   vertical-align: middle;
