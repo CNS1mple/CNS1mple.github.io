@@ -10,7 +10,7 @@
 
  (穷屌没钱旅游，出去玩是不可能出去玩的XD。)    
  
-![Image text](http://oyku9aqxp.bkt.clouddn.com/IMG_7027.JPG)  
+![Image text](https://yangsblog.oss-cn-beijing.aliyuncs.com/IMG_7027.JPG)  
   
 
  想说的话很多，但到嘴边又不知道说什么。

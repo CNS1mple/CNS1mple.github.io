@@ -19,6 +19,6 @@ tag: 排序
 
   
 
-![title](http://oyku9aqxp.bkt.clouddn.com/funnysort1.png)
+![title](https://yangsblog.oss-cn-beijing.aliyuncs.com/funnysort1.png)
 
 ----------

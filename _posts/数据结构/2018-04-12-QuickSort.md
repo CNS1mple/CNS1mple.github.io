@@ -28,7 +28,7 @@ tag: 排序
 与插入排序不同的是，这个合法的位置是被unsorted包围的。**  
 
 
- <img src="{{  'http://oyku9aqxp.bkt.clouddn.com/QuickSort.gif'| prepend: site.baseurl }}"  width="777" align="middle"/>   
+ <img src="{{  'https://yangsblog.oss-cn-beijing.aliyuncs.com/QuickSort.gif'| prepend: site.baseurl }}"  width="777" align="middle"/>   
 
   
 **GIF使用的是二分法的思想。  
@@ -169,4 +169,4 @@ int main() {
 这里只需记住平均复杂度为O(nlgn)就行。  
 其实我也不会XD**
   
-   <img src="{{  'http://oyku9aqxp.bkt.clouddn.com/QuickSortO.png'| prepend: site.baseurl }}"  width="666" align="middle"/>   
+   <img src="{{  'https://yangsblog.oss-cn-beijing.aliyuncs.com/QuickSortO.png'| prepend: site.baseurl }}"  width="666" align="middle"/>   
